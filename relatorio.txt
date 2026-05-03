@@ -1,0 +1,3 @@
+Data: 29/04/2026
+Total de livros: 5
+Total de usuários: 2
